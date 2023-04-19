@@ -4,96 +4,34 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Hi! I'm Victoria! 
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+-----
+My Name is Victoria Sukar, I'm a [United States Navy Veteran](https://www.navy.mil/) and I am currently enrolled with [Bellevue University](https://www.bellevue.edu/) to finish my Bachelors in Data Science! I currently work as a [Data Scientist](https://en.wikipedia.org/wiki/Data_science) in Nortnern Virginia (NOVA). I have a [French Bulldog](https://en.wikipedia.org/wiki/French_Bulldog) named Orion and a [Great Dane](https://en.wikipedia.org/wiki/Great_Dane) named Midas, both named after Greek Mythology characters. 
 
-## Features
+With my soon to be completed Data Science degree, I hope to continue mastering and fine tuning my skills and knowledge base in this vast and ever growing field. I enjoy learning about [Artifical Intelligence (AI)](https://www.mygreatlearning.com/blog/difference-data-science-machine-learning-ai/) but I have also been digging into [Sentiment Analysis](https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17) quite a bit as well due to my previous Open Source and All-Source career. 
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
-## Based on
+<p align="center">
+        <img width="60%" height="30%" src="https://user-images.githubusercontent.com/104641160/228518844-58fb3de2-8da9-474e-adb4-1068a1bc0d55.jpg">
+</p>
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+I hope you enjoy looking over my GitHub Portfolio and please reach out to me at any of the below contact methods if you would like to be incontact about anything Data Science (or furbaby) related! 
 
-## Installation (jekyll-remote-theme method)
+----
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+<p align="center">
+        <img width="221" height="221" src="https://user-images.githubusercontent.com/104641160/228536407-4afcf919-6ae3-406a-8af6-0e184f650670.png">
+    <img width="221" height="221" src="https://user-images.githubusercontent.com/104641160/228536409-5106a012-90e6-4c1c-954a-286a3afa1e7a.png">
+</p>
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+----
 
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+* Personal Email: victoriamaries@yahoo.com
+* School Email: vmsukar@my365.bellevue.edu
+* Phone Number: (302) 745-0432
+* Social Media: 
+    - [Facebook](https://www.facebook.com/VictoriaMarieSukar)
+    - [Instagram](https://www.instagram.com/veemarie.powerbuilder/)
+    - [LinkedIn](https://www.linkedin.com/in/victoria-sukar-266b3a51/)
+* Resume (_Last Updated: 29MAR2023_): [(U) Victoria Sukar_Resume_29MAR2023.pdf](https://github.com/victoriamaries/victoriamaries.github.io/files/11100477/U.Victoria.Sukar_Resume_29MAR2023.pdf)
