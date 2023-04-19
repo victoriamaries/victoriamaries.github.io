@@ -1,25 +1,9 @@
 ---
-title: "Welcome to Jekyll"
+title: "Welcome to my GithHub WebSite!"
 layout: post
 ---
+https://imgflip.com/i/7ip8uc
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This site will serve as my "go-to" website for all things data science and coding moving forward. On the "Project Center" tab you will find all my of DSC450 Projects that are required for graduation. Feel free to click around and I'd love feedback on how to make my webpage more appealing and user friendly as well as what you think about my team projects! 
 
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+https://github.com/victoriamaries.png
