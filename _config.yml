@@ -21,9 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Project Center", file: "/ProjectsCenter.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:vmsukar@my365.bellevue.edu"}
-  - {title: Github, icon: github, url: "https://github.com/victoriamaries"}
-  - {title: Facebook, icon: Facebook, url: "https://www.facebook.com/VictoriaMarieSukar"}
+  - {title: Email Me, icon: envelope, url: "mailto:vmsukar@my365.bellevue.edu"}
+  - {title: My Github, icon: github, url: "https://github.com/victoriamaries"}
+  - {title: My Facebook, icon: Facebook, url: "https://www.facebook.com/VictoriaMarieSukar"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
