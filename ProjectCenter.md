@@ -8,5 +8,4 @@ title: "Project Center"
 
 Please reach out anytime with questions, comments and feedback! I'd love to hear your thoughts!
 
-[Gif] !(https://tenor.com/view/baylor-baste-turkey-gif-20959414)
-[Gif] !(https://tenor.com/bz6Fe.gif)
+![](https://tenor.com/bz6Fe.gif)
