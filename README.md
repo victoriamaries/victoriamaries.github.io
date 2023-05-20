@@ -23,6 +23,8 @@ I hope you enjoy looking over my GitHub Portfolio and please reach out to me at 
 <p align="center">
         <img width="221" height="221" src="https://user-images.githubusercontent.com/104641160/228536407-4afcf919-6ae3-406a-8af6-0e184f650670.png">
     <img width="221" height="221" src="https://user-images.githubusercontent.com/104641160/228536409-5106a012-90e6-4c1c-954a-286a3afa1e7a.png">
+    <img width="221" height="221" src="![dean-s-list-winter-2022](https://github.com/victoriamaries/victoriamaries.github.io/assets/104641160/f06c0499-d6f1-40de-b6a2-e3730c5d4150)
+">
 </p>
 
 ----
