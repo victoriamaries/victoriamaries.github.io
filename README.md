@@ -36,4 +36,4 @@ I hope you enjoy looking over my GitHub Portfolio and please reach out to me at 
     - [Facebook](https://www.facebook.com/VictoriaMarieSukar)
     - [Instagram](https://www.instagram.com/veemarie.powerbuilder/)
     - [LinkedIn](https://www.linkedin.com/in/victoria-sukar-266b3a51/)
-* Resume (_Last Updated: 29MAR2023_): [(U) Victoria Sukar_Resume_29MAR2023.pdf](https://github.com/victoriamaries/victoriamaries.github.io/files/11100477/U.Victoria.Sukar_Resume_29MAR2023.pdf)
+* Resume (_Last Updated: 29MAR2023_): [(U) Victoria Sukar_Resume_29MAR2023.pdf](https://github.com/victoriamaries/victoriamaries.github.io/files/11576637/U.Victoria.Sukar_Resume_29MAR2023.pdf)
